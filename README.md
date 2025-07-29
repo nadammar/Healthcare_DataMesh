@@ -18,6 +18,7 @@ To deliver real value to medical professionals, the project also included the de
 * Offers **interactive dashboard** to monitor patient health indicators and clinical metrics.
 * Integrates a **medication recommendation system** to support doctors with data-driven treatment suggestions.
 
+![HL7FHIR](clinical_domain/app_interfaces/capdash.png)
 
 ## 🛠️ Key Contributions
 
