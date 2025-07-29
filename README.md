@@ -64,5 +64,5 @@ Due to the use of **sensitive healthcare data**, real datasets and production-re
 
 ## 👨‍💻 Author
 
-Project developed by **Nada Ammar** during the **End-of-Degree Internship at IT Progress **, as part of the **National Bachelor's degree in Computer Science (Big Data & Data Analysis)**.
+Project developed by **Nada Ammar** during the **End-of-Degree Internship at IT Progress**, as part of the **National Bachelor's degree in Computer Science (Big Data & Data Analysis)**.
 
