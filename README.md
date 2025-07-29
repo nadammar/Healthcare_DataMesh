@@ -10,6 +10,8 @@ The goal was to design and implement a **Data Mesh architecture** leveraging **H
 * **Individuals**
 * **Financial**
 
+![HL7FHIR](HL7ressources.PNG)  
+
 To deliver real value to medical professionals, the project also included the development of a **secure web application** that:
 
 * Provides **patient management** features with electronic medical records.
