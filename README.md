@@ -4,9 +4,9 @@
 
 This project was completed as part of my **National Bachelor's degree in Computer Science, specializing in Big Data and Data Analysis**, during my **End-of-Degree Internship at IT Progress Tunis,Tunisia** from **February 2023 to May 2023**.
 
-The goal was to design and implement a **Data Mesh architecture** leveraging **HL7 FHIR** (Fast Healthcare Interoperability Resources) standards to enable secure, scalable, and interoperable healthcare data management. 
+The goal was to design and implement a **Data Mesh architecture** leveraging [**HL7 FHIR**](https://www.hl7.org/fhir/) (Fast Healthcare Interoperability Resources) standards to enable secure, scalable, and interoperable healthcare data management. 
 
-![HL7FHIR](HL7ressources.png)
+<img src="HL7ressources.png" alt="HL7FHIR" width="200"/>
 
 This architecture organized data into three autonomous domains:
 
